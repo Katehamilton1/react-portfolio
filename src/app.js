@@ -1,10 +1,8 @@
-import React from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
+import './App.css';
 
 function App() {
   return (
-  <div>
+<div>
   {/*Navagation tags*/}
   <header>
     <h1>
@@ -113,6 +111,7 @@ function App() {
   {/*Footer end*/}
 </div>
 
+   
   );
 }
 
